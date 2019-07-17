@@ -12,6 +12,7 @@ mybatis:
 
 
 spring:
+   profiles: dev
    application:
     name: microservicecloud-config-dept-client
    datasource:
